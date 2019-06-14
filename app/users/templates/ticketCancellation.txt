@@ -1,0 +1,6 @@
+Ticket Cancellation
+You had booked {{seats}} tickets for the movie {{movie}} in Audi {{audi}} scheduled on {{date}} at {{time}}:00 hrs
+Unfortunately, the show has been cancelled due to some unavoidable conditions
+We are sorry for the inconvenience
+Regards:
+Team Movie Ticketing

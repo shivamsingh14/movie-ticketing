@@ -1,0 +1,4 @@
+Ticket Confirmation
+You have successfully booked {{seats}} tickets for movie {{movie}} in Audi {{audi}} at {{time}}:00 hrs on {{date}}
+Regards:
+Team Movie Ticketing

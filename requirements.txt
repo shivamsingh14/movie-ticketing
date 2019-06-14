@@ -1,0 +1,8 @@
+Django==1.11.6
+psycopg2==2.5.4
+postgres==9.5.14
+celery==4.3.0
+djangorestframework==3.9.4
+django-dynamic-fixture==2.0.0
+coverage==4.5.3
+django-cors-headers==3.0.0
